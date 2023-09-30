@@ -13,7 +13,7 @@ The eCommerce Invoice Manager is a simple web application built using Python and
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Team](#Team Members)
+- [Team](#Team-Members)
 - [Credits](#credits)
 
 ## Features
