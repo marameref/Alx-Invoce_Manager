@@ -2,8 +2,7 @@
 Target Audience: For Small Business Owners
 
 
-# eCommerce Invoice Manager
-
+# About
 **Project Description:**  
 The eCommerce Invoice Manager is a simple web application built using Python and the Django framework. It helps eCommerce businesses efficiently manage their invoicing processes by providing a user-friendly interface for creating, tracking, and managing invoices.
 
