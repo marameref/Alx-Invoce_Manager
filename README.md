@@ -14,8 +14,8 @@ The eCommerce Invoice Manager is a simple web application built using Python and
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Team](#Team Members)
+- [Credits](#credits)
 
 ## Features
 
@@ -45,7 +45,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Screenshots
 
-![alt text](https://github.com/marameref/django-Alx-Invoice_Managerinvoice-management/blob/master/screenshots/home.png)
+![alt text](https://github.com/marameref/Alx-Invoice_Manager/blob/master/screenshots/home.png)
 
 ## Usage
 
@@ -59,7 +59,7 @@ That will create a new folder env in your project directory. Next activate it wi
 source venv/bin/active
 ```
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements:
+Use the package manager [pip] to install requirements:
 ```bash
 pip install -r requirements.txt
 ```
@@ -68,9 +68,9 @@ Run the project with this command. Then open http://localhost:8000 in your borws
 python manage.py runserver
 ```
 
-## Contributing
+## Team Members
 
-- Amarachi Crystal Omereife || github: https://github.com/marameref || Email: (mailto: mirrorprojectsltd@gmail.com)
+- Amarachi Crystal Omereife || github: https://github.com/marameref || Email: mirrorprojectsltd@gmail.com)
 - Anwulika Mordi || Username: @anwulika-1 
 
 ## Credits
