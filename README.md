@@ -2,7 +2,7 @@
 Target Audience: For Small Business Owners
 
 
-# About
+## About
 **Project Description:**  
 The eCommerce Invoice Manager is a simple web application built using Python and the Django framework. It helps eCommerce businesses efficiently manage their invoicing processes by providing a user-friendly interface for creating, tracking, and managing invoices.
 
@@ -44,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Screenshots
 
-![alt text](https://github.com/marameref/Alx-Invoice_Manager/blob/master/screenshots/home.png)
+![alt text](https://github.com/marameref/Alx-Invoice_Manager/blob/main/screenshots/home.png)
 
 ## Usage
 
